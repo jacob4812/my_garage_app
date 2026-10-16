@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mój Garaż</string>
+    <string name="nav_start">Start</string>
+    <string name="nav_tools">Narzędzia</string>
+    <string name="nav_parts">Części</string>
+    <string name="nav_inventory">Inwentaryzacja</string>
+    <string name="nav_more">Więcej</string>
+    <string name="home_title">Mój Garaż</string>
+    <string name="home_welcome">Witaj w swoim garażu</string>
+    <string name="home_description">Zarządzaj narzędziami, częściami i inwentaryzacją w jednym miejscu.</string>
+    <string name="home_tools_title">Narzędzia</string>
+    <string name="home_tools_description">Główny moduł aplikacji</string>
+    <string name="home_parts_title">Części i materiały</string>
+    <string name="home_parts_description">Moduł dodatkowy</string>
+    <string name="feature_next_version">Funkcja będzie dostępna w kolejnej wersji.</string>
+    <string name="more_title">Więcej</string>
+    <string name="settings_title">Ustawienia</string>
+    <string name="settings_description">Ustawienia aplikacji będą dostępne w kolejnych etapach.</string>
+    <string name="settings_open">Otwórz ustawienia</string>
+    <string name="back">Wstecz</string>
+    <string name="section_unavailable">Ten moduł nie jest jeszcze dostępny</string>
+</resources>
